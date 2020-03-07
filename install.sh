@@ -27,4 +27,6 @@ make
 sudo make install
 cd ..
 
-
+cp -r cava.config ~/.config/cava/config
+cp -r  cool-retro-term/  ~/
+cp -r  red.json ~/cool-retro-term/
